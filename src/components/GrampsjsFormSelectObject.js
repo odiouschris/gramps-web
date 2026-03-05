@@ -35,7 +35,6 @@ class GrampsjsFormSelectObject extends GrampsjsAppStateMixin(LitElement) {
       css`
         mwc-menu {
           --mdc-menu-min-width: 200px;
-          --mdc-menu-max-width: 400px;
         }
 
         .container {
